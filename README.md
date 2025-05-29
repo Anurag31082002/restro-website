@@ -11,9 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![image](https://github.com/user-attachments/assets/548a0c38-5d93-46cb-953a-b171cb638514)
-
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/60ce1a70-f3d9-498d-9458-23af556378fb)
+![image](https://github.com/user-attachments/assets/1168cb44-625d-488b-8175-4275fda187d5)
 
 
 The page will reload if you make edits.\
